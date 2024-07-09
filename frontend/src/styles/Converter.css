@@ -1,0 +1,84 @@
+.from{
+    color: red;
+    font-weight: bold
+}
+
+.select1{
+    color: red;
+    padding: 2px;
+    margin-left: 5px;
+    border-radius: 100px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold
+
+
+}
+
+.to{
+    color: blue;
+    margin-left: 20px;
+    font-weight: bold
+
+}
+
+.select2{
+    color: blue;
+    padding: 2px;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 8px;
+    cursor: pointer;
+    font-weight: bold
+
+}
+
+.todiv{
+    margin-top: 10px;
+    
+}
+
+.amountdiv{
+    margin-top: 10px;
+}
+
+.amount{
+    color: black;
+    font-weight: bold
+
+}
+
+.input{
+    border-radius: 100px;
+    margin-left: 5px;
+    text-align: center;
+    color: red;
+    font-weight: bold
+
+}
+
+.button{
+    margin-top: 10px;
+    border-radius: 20px;
+    margin-left: 50px;
+    cursor: pointer;
+    background-color: brown;
+    font-weight: bold;
+    transition: background-color 1s;
+
+}
+
+.result{
+    color: crimson;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.button:hover{
+    background-color: yellowgreen;
+    border-radius: 50px;
+}
+
+.button.focus,.button.active{
+    transition: none;
+}

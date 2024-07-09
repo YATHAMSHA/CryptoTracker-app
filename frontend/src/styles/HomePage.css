@@ -1,0 +1,11 @@
+.home-page{
+    background-color: yellowgreen;
+    /* background-color: #2272FF; */
+    /* margin-top: -22px; */
+    color: black;
+}
+
+.home-page h1{
+    /* background-color: red; */
+    margin-top: -10px;
+}

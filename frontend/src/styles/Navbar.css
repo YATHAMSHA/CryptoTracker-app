@@ -19,7 +19,6 @@
 }
 
 .homel1.focus,.homel1.active{
-    /* background-color: yellowgreen !important; */
     transition: none;
 }
 
